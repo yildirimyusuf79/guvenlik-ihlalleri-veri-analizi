@@ -115,3 +115,4 @@ Notebook'u sırayla çalıştırarak analizleri takip edebilirsiniz.
 **Yusuf Yıldırım** · [GitHub](https://github.com/yildirimyusuf79) · [LinkedIn](https://www.linkedin.com/in/yusuf-yıldırım-190445295)
 
 </div>
+
