@@ -112,6 +112,6 @@ Notebook'u sırayla çalıştırarak analizleri takip edebilirsiniz.
 
 <div align="center">
 
-**Yusuf Yıldırım** · [GitHub](https://github.com/yildirimyusuf79)
+**Yusuf Yıldırım** · [GitHub](https://github.com/yildirimyusuf79) · [LinkedIn](https://www.linkedin.com/in/yusuf-yıldırım-190445295)
 
 </div>
